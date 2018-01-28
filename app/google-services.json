@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "788518005921",
+    "firebase_url": "https://fir-apllication.firebaseio.com",
+    "project_id": "fir-apllication",
+    "storage_bucket": "fir-apllication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788518005921:android:596c7cf44626ebf3",
+        "android_client_info": {
+          "package_name": "com.example.dell.firebaseapllication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788518005921-mjmoa2fnjmnho2ahnlj3qq87um00iril.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.firebaseapllication",
+            "certificate_hash": "b00135fdfb4ea066c9da8bedd86fd195c37e2aba"
+          }
+        },
+        {
+          "client_id": "788518005921-qc2g23mtkcfg38lsi9ul477brhsmmatm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfpw9MrAYXqyf-heDPTCHyHJN77TMJrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788518005921-qc2g23mtkcfg38lsi9ul477brhsmmatm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788518005921:android:def3de26bb735ff5",
+        "android_client_info": {
+          "package_name": "com.example.dell.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788518005921-tbthflmtfgdjan37ls61h67i585qnogq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.socialmediaapp",
+            "certificate_hash": "b00135fdfb4ea066c9da8bedd86fd195c37e2aba"
+          }
+        },
+        {
+          "client_id": "788518005921-qc2g23mtkcfg38lsi9ul477brhsmmatm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfpw9MrAYXqyf-heDPTCHyHJN77TMJrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788518005921-qc2g23mtkcfg38lsi9ul477brhsmmatm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

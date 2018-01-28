@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="7dp"
+    android:layout_margin="20dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/postUserImage"
+            android:layout_margin="5dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/postUserName"
+            android:text="User Name"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:layout_toRightOf="@+id/postUserImage"/>
+        <ImageView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/postImage"
+            android:layout_below="@+id/postUserImage"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Post Title"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:id="@+id/textTitle"
+            android:layout_below="@id/postImage"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Post Description"
+            android:layout_margin="5dp"
+            android:id="@+id/textDesc"
+            android:layout_below="@id/textTitle"/>
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
